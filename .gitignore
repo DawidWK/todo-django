@@ -1,3 +1,4 @@
 env
 staticfiles
 settigs.py
+todo/settings.py
