@@ -1,0 +1,36 @@
+body {
+    background: #fdfdff;
+    height: 100%;
+    margin: 0;
+}
+.main-nav {
+    height: 200px;
+    background: #c6c5b9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ul {
+    list-style-type: none;  
+    padding: 0px;
+}
+
+.task {
+    display: flex;
+    position: relative;
+    align-items: center;
+    background: grey;
+    min-height: 50px;
+    padding-left: 5px;
+    margin: 4px;
+    border-radius: 5px;
+}
+.my-btn {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+/* .container {
+    background: #393d3f;
+    height: calc(100vh - 200px);
+} */
